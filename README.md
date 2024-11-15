@@ -1,16 +1,16 @@
-# currency_conv
+Currency Converter
+Um Conversor de Moedas Simples desenvolvido como atividade da disciplina Desenvolvimento Mobile do curso de Análise e Desenvolvimento de Sistemas - IFTO 2024/2. Este projeto consome a API da HG Brasil para realizar a conversão de valores entre diferentes moedas.
 
-A new Flutter project.
+🛠 Tecnologias Utilizadas
+Flutter: Framework de desenvolvimento mobile.
+Dart: Linguagem de programação.
+HTTP Package: Para realizar requisições à API.
+🌟 Funcionalidades
+Conversão instantânea de valores entre:
+Real (BRL)
+Dólar (USD)
+Bitcoin (BTC)
+Consumo de dados atualizados em tempo real da API da HG Brasil.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✍️ Autor
+Desenvolvido por Allan - Aluno do Instituto Federal do Tocantins (IFTO).
