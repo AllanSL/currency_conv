@@ -1,4 +1,5 @@
-Currency Converter
+#Currency Converter
+
 Um Conversor de Moedas Simples desenvolvido como atividade da disciplina Desenvolvimento Mobile do curso de Análise e Desenvolvimento de Sistemas - IFTO 2024/2. Este projeto consome a API da HG Brasil para realizar a conversão de valores entre diferentes moedas.
 
 🛠 Tecnologias Utilizadas  
